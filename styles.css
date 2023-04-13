@@ -1,0 +1,167 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+  background-image: url('images/fondo1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 1em;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	padding: 1em;
+}
+
+section {
+	margin-bottom: 2em;
+}
+
+h2 {
+	color: #333;
+}
+
+form label {
+	display: block;
+	margin-bottom: 0.5em;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+	width: 100%;
+	padding: 0.5em;
+	margin-bottom: 1em;
+	border: none;
+	border-radius: 3px;
+}
+
+form textarea {
+  min-height: 100px;
+  max-height: 200px;
+}
+
+form input[type="number"] {
+  border: none;
+	border-radius: 3px;
+}
+
+form input[type="submit"] {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+	padding: 0.5rem 1rem;
+	cursor: pointer;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .img-container {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  h1,
+  h2 {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #3e8e41;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    height: 150px;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    margin-top: 20px;
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #94228e;
+  }
+
+  .gente-trabajando-oficina{
+    background-image: url('images/gente-trabajando-oficina.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .interrogacion{
+    background-image: url('images/interrogacion.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .profesores{
+    background-image: url('images/profesores.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
