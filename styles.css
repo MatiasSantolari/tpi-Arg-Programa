@@ -2,7 +2,7 @@ body {
 	font-family: Arial, sans-serif;
 	margin: 0;
 	padding: 0;
-  background-image: url('images/fondo1.jpg');
+  background-image: url('imagenes/fondo1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -146,21 +146,21 @@ form input[type="submit"] {
   }
 
   .gente-trabajando-oficina{
-    background-image: url('images/gente-trabajando-oficina.jpg');
+    background-image: url('imagenes/gente-trabajando-oficina.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
   }
 
   .interrogacion{
-    background-image: url('images/interrogacion.png');
+    background-image: url('imagenes/interrogacion.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
   }
 
   .profesores{
-    background-image: url('images/profesores.png');
+    background-image: url('imagenes/profesores.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

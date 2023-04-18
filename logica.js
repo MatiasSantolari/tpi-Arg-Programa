@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
               },
               success: function(response) {
                   // Aquí puedes manejar la respuesta del servidor si es necesario
-                  console.log('Éxito:', response);
+                  //console.log('Éxito:', response);
                   // Puedes mostrar un mensaje de éxito al usuario
                   alert('¡Mensaje enviado con éxito!');
               },
